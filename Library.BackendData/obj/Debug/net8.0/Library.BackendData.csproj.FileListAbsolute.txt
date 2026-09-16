@@ -1,0 +1,12 @@
+C:\Users\alexa\source\repos\LibraryApp\Library.BackendData\obj\Debug\net8.0\Library.BackendData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\LibraryApp\Library.BackendData\obj\Debug\net8.0\Library.BackendData.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\LibraryApp\Library.BackendData\obj\Debug\net8.0\Library.BackendData.AssemblyInfo.cs
+C:\Users\alexa\source\repos\LibraryApp\Library.BackendData\obj\Debug\net8.0\Library.BackendData.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\LibraryApp\Library.BackendData\bin\Debug\net8.0\Library.BackendData.deps.json
+C:\Users\alexa\source\repos\LibraryApp\Library.BackendData\bin\Debug\net8.0\Library.BackendData.dll
+C:\Users\alexa\source\repos\LibraryApp\Library.BackendData\bin\Debug\net8.0\Library.BackendData.pdb
+C:\Users\alexa\source\repos\LibraryApp\Library.BackendData\obj\Debug\net8.0\Library.BackendData.dll
+C:\Users\alexa\source\repos\LibraryApp\Library.BackendData\obj\Debug\net8.0\refint\Library.BackendData.dll
+C:\Users\alexa\source\repos\LibraryApp\Library.BackendData\obj\Debug\net8.0\Library.BackendData.pdb
+C:\Users\alexa\source\repos\LibraryApp\Library.BackendData\obj\Debug\net8.0\ref\Library.BackendData.dll
+C:\Users\alexa\source\repos\LibraryApp\Library.BackendData\obj\Debug\net8.0\Library.BackendData.csproj.AssemblyReference.cache

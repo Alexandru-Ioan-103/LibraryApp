@@ -1,0 +1,15 @@
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\bin\Debug\net8.0\Library.DBInfrastructure.deps.json
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\bin\Debug\net8.0\Library.DBInfrastructure.dll
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\bin\Debug\net8.0\Library.DBInfrastructure.pdb
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\bin\Debug\net8.0\Library.BackendData.dll
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\bin\Debug\net8.0\Library.BackendData.pdb
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\obj\Debug\net8.0\Library.DBInfrastructure.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\obj\Debug\net8.0\Library.DBInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\obj\Debug\net8.0\Library.DBInfrastructure.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\obj\Debug\net8.0\Library.DBInfrastructure.AssemblyInfo.cs
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\obj\Debug\net8.0\Library.DBInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\obj\Debug\net8.0\Library..3A98BF1A.Up2Date
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\obj\Debug\net8.0\Library.DBInfrastructure.dll
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\obj\Debug\net8.0\refint\Library.DBInfrastructure.dll
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\obj\Debug\net8.0\Library.DBInfrastructure.pdb
+C:\Users\alexa\source\repos\LibraryApp\Library.DBInfrastructure\obj\Debug\net8.0\ref\Library.DBInfrastructure.dll
